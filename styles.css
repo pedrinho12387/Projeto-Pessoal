@@ -26,12 +26,12 @@ header {
 
 header h1 {
     font-size: 2.5em;
-    color: #2c3e50;
+    color: blue;
 }
 
 header p {
     font-size: 1.2em;
-    color: #2218b3;
+    color: white;
 }
 
 /* Estilo das seções */
