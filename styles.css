@@ -46,7 +46,7 @@ section h2 {
 
 /* Estilo das imagens */
 #foto img {
-    max-width: px;
+    max-width: 200px;
     border-radius: 50%;
     display: block;
     margin: 0 auto;
